@@ -1,2 +1,0 @@
-# vamsicv
-portfolio
