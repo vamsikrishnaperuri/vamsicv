@@ -24,9 +24,6 @@ header .header-left {
     display: flex;
     align-items: right;
 }
-header .header-left .logo {
-    width: 140px;
-}
 header .header-left nav {
     margin-left: 100%;
 }
